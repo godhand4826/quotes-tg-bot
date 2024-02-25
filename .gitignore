@@ -1,1 +1,6 @@
 /target
+
+.vscode
+.env
+
+quotes.txt
